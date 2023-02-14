@@ -12,9 +12,11 @@ conda create --name pmg_env
 ```
 
 #Activate the created environment
-
+```
 conda activate pmg_env
+```
 
 #Install a specific (older) pymatgen version
-
+```
 conda install -c conda-forge pymatgen=2020.7.3
+```
